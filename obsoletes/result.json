@@ -1,0 +1,32 @@
+{
+	"series_name": "hogehoge-test",
+	"report_date": "2015-09-22 14:25:22",
+	"reports" : [
+		{
+			"target_id": "target0000",
+			"task_reports": [
+				{
+					"task_id": "0000connect",
+					"task_date": "2015-09-22 14:21:00",
+					"task_result": {
+						"success": false
+					}
+				},
+				{
+					"task_id": "0000connect",
+					"task_date": "2015-09-22 14:21:05",
+					"task_result": {
+						"success": true
+					}
+				},
+				{
+					"task_id": "0001dhcp",
+					"task_date": "2015-09-22 14:21:19",
+					"task_result": {
+					}
+
+
+			]
+		}
+	]
+}
